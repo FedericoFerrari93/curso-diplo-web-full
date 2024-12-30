@@ -1,10 +1,7 @@
 h1 {
-  color: red;
-  /*comentario en css*/
-  font-family: Arial;
-  /*esto es para cambiar la tipografia*/
-  background-color: yellow;
-  /*para agregar fondo*/
+  color: red;  /*comentario en css*/
+  font-family: Arial; /*esto es para cambiar la tipografia*/
+  background-color: yellow;  /*para agregar fondo*/
   text-align: center;
 
 }
@@ -21,10 +18,8 @@ p {
 
 .destacados {
   font-size: 30px;
-  font-weight: bold;
-  /*convierte el texto en negrita*/
-  font-style: italic;
-  /*convierte el texto en letra italic*/
+  font-weight: bold;  /*convierte el texto en negrita*/
+  font-style: italic;  /*convierte el texto en letra italic*/
 
 }
 
@@ -34,9 +29,8 @@ p {
   height: 300px;
   padding: 20px;
   border: 5px solid black;
-  box-sizing: border-box;
-  /*mantiene el nivel de las cajas para que no caigan y quede prolijo*/
-margin-left: 100px;
+  box-sizing: border-box;  /*mantiene el nivel de las cajas para que no caigan y quede prolijo*/
+  margin-left: 100px;
 }
 
 #azul {
