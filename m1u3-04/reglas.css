@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    background-color: aqua;
+}
+
+img {
+    box-sizing: border-box;
+    width: 200px;
+    border: 5px solid black;
+}
+
+
+.series {
+    color: blue;
+    font-size:  20px;
+}
+
+#peliculas {
+    background-color: red;
+    text-align:left;
+    font-size:  20px;
+}
